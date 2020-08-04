@@ -20,7 +20,7 @@ Deployed App: https://aqueous-reaches-54197.herokuapp.com/
 
 ## Screenshot
 
-![screenshot]()
+![screenshot](https://github.com/carooflee/PWA-Budget-Tracker/blob/master/screenshot.png)
 
 ## License
 
