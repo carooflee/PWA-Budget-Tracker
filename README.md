@@ -16,7 +16,7 @@ To start the server, run `npm start`. To access the app after starting the serve
 
 ## Example Usage
 
-Deployed App: 
+Deployed App: https://aqueous-reaches-54197.herokuapp.com/
 
 ## Screenshot
 
